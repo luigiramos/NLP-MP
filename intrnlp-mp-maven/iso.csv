@@ -1,6 +1,4 @@
-4,Context of the organization,NA,4.1,Understanding the organization and its context,"The organization shall determine external and internal issues that are relevant to its purpose and its
-strategic direction and that affect its ability to achieve the intended result(s) of its quality management
-system.
+4,Context of the organization,NA,4.1,Understanding the organization and its context,"The organization shall determine external and internal issues that are relevant to its purpose and its strategic direction and that affect its ability to achieve the intended results of its quality management system.
 
 The organization shall monitor and review the information about these external and internal issues.
 
@@ -114,7 +112,8 @@ organization shall retain documented information on the quality objectives.
 The organization shall retain documented information on the quality objectives.",NA
 6,Planning for the quality management system,NA,6.2.2,Quality objectives and planning to achieve them,"When planning how to achieve its quality objectives; the organization shall determine:
 
-a) what will be done;
+a)
+ what will be done;
 b) what resources will be required; 
 c) who will be responsible;
 d) when it will be completed;
@@ -173,7 +172,8 @@ c) where applicable; take actions to acquire the necessary competence; and evalu
 d) retain appropriate documented information as evidence of competence",NA
 7,Support - Resources,NA,7.3,Awareness,"Persons doing work under the organization’s control shall be aware of:
 
-a) the quality policy;
+a) 
+the quality policy;
 b) relevant quality objectives;
 c) their contribution to the effectiveness of the quality management system; including the benefits of improved quality performance;
 d) the implications of not conforming with the quality management system requirements",NA
@@ -189,8 +189,10 @@ e) how to communicate ",NA
 a) documented information required by this International Standard;
 b) documented information determined by the organization as being necessary for the effectiveness of the quality management system.",NA
 7,Support - Resources,NA,7.5.2,Creating and updating,"When creating and updating documented information the organization shall ensure appropriate: 
-a) identification and description (e.g. a title; date; author; or reference number);
-b) format (e.g. language; software version; graphics) and media (e.g. paper; electronic); 
+a)
+ identification and description (e.g. a title; date; author; or reference number);
+b) 
+format (e.g. language; software version; graphics) and media (e.g. paper; electronic); 
 c) review and approval for suitability and adequacy.",NA
 7,Support - Resources,NA,7.5.3.1,Control of documented Information,"Documented information required by the quality management system and by this International Standard shall be controlled to ensure: 
 a) it is available and suitable for use; where and when it is needed;
@@ -202,7 +204,8 @@ c) control of changes (e.g. version control);
 d) retention and disposition.",NA
 8,Operation,NA,8.1,Operational planning and control,"The organization shall plan; implement and control the processes; as outlined in 4.4; needed to meet requirements for the provision of products and services and to implement the actions determined in 6.1; by:
 
-a) determining requirements for the product and services;establishing criteria for the processes and for the acceptance of products and services; 
+a) determining requirements for the product and services;
+establishing criteria for the processes and for the acceptance of products and services; 
 b) determining the resources needed to achieve conformity to product and service requirements; 
 c) implementing control of the processes in accordance with the criteria;
 d) retaining documented information to the extent necessary to have confidence that the processes have been carried out as planned and to demonstrate conformity of products and services to requirements",NA
@@ -268,7 +271,8 @@ The organization shall establish and apply criteria for the evaluation; selectio
 a) the potential impact of the externally provided processes; products and services on the organization’s ability to consistently meet customer and applicable statutory and regulatory requirements;
 b) the perceived effectiveness of the controls applied by the external provider. 
 
-The organization shall establish and implement verification or other activities necessary to ensure the externally provided processes; products and services do not adversely affect the organisations ability to consistently deliver conforming products and services to its customers. Processes or functions of the organization which have been outsourced to an external provider remain within the scope of the organization’s quality management system; accordingly; the organization shall consider a) and b) above and define both the controls it intends to apply to the external provider and1344 those it intends to apply to the resulting process output.",NA
+The organization shall establish and implement verification or other activities necessary to ensure the externally provided processes; products and services do not adversely affect the organisations ability to consistently deliver conforming products and services to its customers. Processes or functions of the organization which have been outsourced to an external provider remain within the scope of the organization’s quality management system; accordingly; the organization shall consider a) and b) above and define both the controls it intends to apply to the external provider and
+1344 those it intends to apply to the resulting process output.",NA
 8,Operation,NA,8.4.3,Information for external providers,"The organization shall communicate to external providers applicable requirements for the following: 
 
 a) the products and services to be provided or the processes to be performed on behalf of the organization;
@@ -354,13 +358,16 @@ f) retain documented information as evidence of the implementation of the audit 
 9,Performance evaluation,NA,9.3.1,Management review,"Top management shall review the organizations quality management system; at planned intervals; to ensure its continuing suitability; adequacy; and effectiveness.
 
 The management review shall be planned and carried out taking into consideration:
-a) the status of actions from previous management reviews;changes in external and internal issues that are relevant to the quality management systemincluding its strategic direction;
-b) information on the quality performance; including trends and indicators for:
-1) nonconformities and corrective actions;
-2) monitoring and measurement results;
+a) the status of actions from previous management reviews;
+changes in external and internal issues that are relevant to the quality management system
+including its strategic direction;
+b) 
+information on the quality performance; including trends and indicators for:
+1) nonconformities and corrective actions;
+2) monitoring and measurement results;
 3) audit results;
 4) customer satisfaction;
-5) issues concerning external providers and other relevant interested parties;
+5) issues concerning external providers and other relevant interested parties;
 6) adequacy of resources required for maintaining an effective quality management system
 7) process performance and conformity of products and services;
 c) the effectiveness of actions taken to address risks and opportunities (see clause 6.1); 
