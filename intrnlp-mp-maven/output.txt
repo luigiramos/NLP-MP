@@ -1,0 +1,463 @@
+Standard Control: Understanding the organization and its context
+	Action: monitor information about external issues
+		Organization: organization
+	Action: related to values
+		Organization: issues
+
+Standard Control: Quality management system
+	Action: determine Due to ability consistently provide
+		Organization: organisation
+	Action: determine requirements Due to ability consistently provide
+		Organization: organisation
+	Action: monitor information about interested parties
+		Organization: organization
+
+Standard Control: Determining the scope of the quality management system
+	Action: determine boundaries of quality management system
+		Organization: organization
+	Action: consider external issues referred to in 4.1
+		Organization: organization
+	Action: consider requirements of relevant interested parties referred to in 4.2
+		Organization: organization
+	Action: consider products of organization
+		Organization: organization
+
+Standard Control: Quality management system and its processes
+	Action: continually improve quality management system including processes needed
+		Organization: organization
+	Action: determine processes needed for quality management system
+		Organization: organization
+	Action: sequence of processes needed for quality management system
+		Organization: organization
+	Action: determine processes needed for quality management system
+		Organization: resources
+	Action: risks in accordance with requirements of 6.1
+		Organization: organization
+	Action: determine methods for monitoring as appropriate
+		Organization: organization
+	Action: maintain information to documented information
+		Organization: organization
+
+Standard Control: Leadership and commitment
+	Action: demonstrate leadership
+		Organization: Top management
+	Action: demonstrate leadership established for quality management system
+		Organization: quality policy
+	Action: demonstrate commitment with respect to quality management system
+		Organization: quality policy
+	Action: demonstrate business processes
+		Organization: Top management
+	Action: demonstrate commitment with respect to quality management system
+		Organization: management
+	Action: demonstrate leadership with respect to effectiveness of quality management system
+		Organization: persons
+
+Standard Control: Customer Focus
+	Action: demonstrate leadership with respect to customer focus
+		Organization: Top management
+
+Standard Control: Quality Policy
+
+Standard Control: Quality Policy
+	Action: applied within shall communicated
+		Organization: quality policy
+
+Standard Control: Organizational roles; responsibilities and authorities
+	Action: are assigned within organization
+		Organization: responsibilities
+	Action: assign responsibility requirements of International Standard
+		Organization: Top management
+	Action: assign responsibility responsibility
+		Organization: Top management
+	Action: especially reporting to responsibility reporting
+		Organization: Top management
+	Action: assign authority
+		Organization: Top management
+
+Standard Control: Actions to address risks and opportunities
+	Action: referred to its intended results
+		Organization: quality management system
+	Action: referred to to 4.2
+		Organization: requirements
+	Action: referred to continual improvement
+		Organization: opportunities
+
+Standard Control: Actions to address risks and opportunities
+	Action: integrate actions into its quality management system processes
+		Organization: b.
+
+Standard Control: Quality objectives and planning to achieve them
+	Action: establish quality objectives at relevant functions
+		Organization: organization
+	Action: take into account applicable requirements
+		Organization: quality objectives
+	Action: retain documented information on quality objectives
+		Organization: organization
+
+Standard Control: Quality objectives and planning to achieve them
+	Action: be required
+		Organization: resources
+	Action: be how evaluated
+		Organization: results
+
+Standard Control: Planning of changes
+	Action: determines need for change to quality management system
+		Organization: organization
+	Action: consider any of its potential consequences
+		Organization: organization
+	Action: consider integrity of quality management system
+		Organization: organization
+	Action: consider availability of resources
+		Organization: organization
+	Action: consider allocation of responsibilities
+		Organization: organization
+
+Standard Control: Support - General
+	Action: determine resources needed for establishment
+		Organization: organization
+	Action: consider capabilities of
+		Organization: organization
+
+Standard Control: Support - People
+	Action: consistently meet persons necessary for operation of quality management system including processes needed
+		Organization: organization
+
+Standard Control: Support - Infrastructure
+	Action: can include associated utilities
+		Organization: Infrastructure
+	Action: can include equipment including hardware
+		Organization: Infrastructure
+	Action: can include transportation
+		Organization: Infrastructure
+	Action: can include information technology
+		Organization: Infrastructure
+
+Standard Control: Environment for the operation of processes
+	Action: can include physical factors
+		Organization: Environment
+
+Standard Control: Monitoring and measuring resources
+	Action: determine Where used for evidence of conformity
+		Organization: monitoring
+	Action: are suitable for suitable for specific type of monitoring undertaken
+		Organization: resources
+	Action: are maintained their continued fitness for their purpose
+		Organization: resources
+	Action: retain information as evidence of fitness for purpose of monitoring
+		Organization: organization
+	Action: in validity of measurement results
+		Organization: confidence
+	Action: would invalidate subsequent measurement results
+		Organization: deterioration
+	Action: determine defective during its planned verification during its use
+		Organization: instrument
+
+Standard Control: Organizational knowledge
+	Action: obtain knowledge required
+		Organization: organization
+
+Standard Control: Competence
+	Action: determine necessary competence of persons
+		Organization: organization
+	Action: are competent on basis of appropriate education
+		Organization: persons
+	Action: retain information as appropriate documented information
+		Organization: organization
+
+Standard Control: Awareness
+
+Standard Control: Communication
+	Action: determine internal communications relevant
+		Organization: organization
+
+Standard Control: General
+	Action: determined by necessary for effectiveness of quality management system
+		Organization: organization 's quality management system
+
+Standard Control: Creating and updating
+	Action: ensure appropriate identification
+		Organization: organization
+	Action: ensure appropriate
+		Organization: organization
+	Action: ensure appropriate format
+		Organization: organization
+
+Standard Control: Control of documented Information
+	Action: required by quality management system
+		Organization: it
+	Action: is adequately protected
+		Organization: it
+
+Standard Control: Control of documented Information
+	Action: address activities For control of documented information
+		Organization: organization
+	Action: address activities For applicable storage including preservation of legibility
+		Organization: organization
+
+Standard Control: Operational planning and control
+	Action: implement actions determined in 6.1
+		Organization: organization
+	Action: control processes
+		Organization: organization
+
+Standard Control: Determination of requirements for products and services
+	Action: establish processes communicating with customers in relation to information relating to products
+		Organization: organization
+	Action: establish processes communicating with customers in relation to enquiries including changes
+		Organization: organization
+	Action: establish processes communicating with customers
+		Organization: organization
+	Action: establish processes communicating with customers in relation to handling of customer property
+		Organization: organization
+
+Standard Control: Determination of requirements related to products and services
+	Action: maintain process determine
+		Organization: maintain
+	Action: substantiate claims
+		Organization: requirements
+
+Standard Control: Review of requirements related to products and services
+	Action: review as applicable requirements specified by customer including requirements for delivery
+		Organization: organization
+	Action: review as applicable additional statutory requirements applicable to products
+		Organization: organization
+	Action: are conducted
+		Organization: shall conducted
+	Action: documented statement of their requirements
+		Organization: customer
+	Action: results of review
+		Organization: describing
+	Action: are made aware of changed requirements
+		Organization: relevant information
+
+Standard Control: Design and development of products and services - General
+
+Standard Control: Design and development planning
+	Action: stages for nature of design activities
+		Organization: organization
+	Action: stages for design
+		Organization: controls
+	Action: stages for development verification
+		Organization: organization
+	Action: stages for responsibilities involved in design process
+		Organization: organization
+	Action: stages for need for involvement of customer groups in design process
+		Organization: involvement
+	Action: stages for necessary documented information confirm
+		Organization: design requirements
+
+Standard Control: Design and development Inputs
+	Action: determine applicable statutory requirements
+		Organization: organization
+	Action: determine internal resource needs for design of products
+		Organization: organization
+	Action: determine potential consequences of failure
+		Organization: organization
+	Action: determine level of control expected of design process by customers
+		Organization: organization
+
+Standard Control: Design and development controls
+	Action: applied to design process
+		Organization: controls
+	Action: are conducted design process
+		Organization: design reviews
+	Action: is conducted development input requirements
+		Organization: verification
+	Action: is conducted requirements for specified application
+		Organization: services
+
+Standard Control: Design and development outputs
+	Action: meet input requirements for design
+		Organization: design outputs
+	Action: are adequate for subsequent processes for provision of products
+		Organization: design outputs
+	Action: include monitoring requirements
+		Organization: design outputs
+	Action: services provided
+		Organization: services
+
+Standard Control: Design and development changes
+	Action: identify changes made
+		Organization: organization
+
+Standard Control: Control of externally provided products and services - General
+	Action: conform to specified requirements
+		Organization: processes
+	Action: apply when provided by external providers for incorporation into organization 's own products
+		Organization: products
+	Action: apply when provided directly to customers by external providers
+		Organization: products
+	Action: process of specified requirements for control of externally provided products
+		Organization: process
+	Action: establish criteria for evaluation
+		Organization: organization
+	Action: retain appropriate documented information of results of evaluations of external providers
+		Organization: organization
+
+Standard Control: Type and extent of control of external provision
+	Action: take potential impact of processes
+		Organization: organisation
+	Action: establish verification activities
+		Organization: organization
+	Action: of quality management system
+		Organization: organization
+
+Standard Control: Information for external providers
+	Action: processes performed
+		Organization: the
+	Action: communicate to external providers applicable requirements for following approval of products
+		Organization: organization
+	Action: communicate to external providers applicable requirements for following competence of personnel including necessary qualification
+		Organization: organization
+	Action: communicate to external providers applicable requirements for
+		Organization: their interactions
+	Action: of performance
+		Organization: external provider
+	Action: communicate to external providers applicable requirements
+		Organization: organization
+	Action: ensure prior adequacy of specified requirements
+		Organization: organization
+
+Standard Control: Control of production and service provision
+	Action: implement controlled conditions for production including delivery
+		Organization: organization
+	Action: include as applicable availability
+		Organization: conditions
+	Action: criteria for applicable monitoring verify
+		Organization: conditions
+	Action: availability of suitable monitoring
+		Organization: use
+
+Standard Control: Identification and traceability
+	Action: identify process outputs
+		Organization: organization
+	Action: identify status with respect to monitoring throughout production
+		Organization: organization
+	Action: control unique identification of process outputs
+		Organization: organization
+
+Standard Control: Property belonging to customers or external providers
+	Action: exercise care under property belonging to customer providers
+		Organization: organization
+	Action: safeguard customer 's property provided for use into products
+		Organization: organization
+	Action: report to When incorrectly used
+		Organization: property
+	Action: can include intellectual property
+		Organization: Customer property
+
+Standard Control: Preservation
+	Action: ensure preservation during preservation of process outputs
+		Organization: organization
+	Action: can include identification
+		Organization: Preservation
+
+Standard Control: Post-delivery activities
+	Action: meet requirements As requirements for post-delivery activities associated with products
+		Organization: organization
+	Action: consider nature of products
+		Organization: organisation
+	Action: consider customer feedback
+		Organization: organisation
+	Action: consider statutory requirements
+		Organization: organisation
+
+Standard Control: Control of changes
+	Action: control changes to unplanned changes essential for production
+		Organization: organization
+	Action: results of documented information
+		Organization: describing
+
+Standard Control: Release of products and services
+	Action: provide traceability to traceability
+		Organization: information
+
+Standard Control: Control of nonconforming process outputs; products and services
+	Action: ensure services
+		Organization: organization
+	Action: take action based on appropriate corrective action
+		Organization: organization
+	Action: deal with nonconforming process outputs
+		Organization: organization
+	Action: retain documented information of actions taken
+		Organization: organization
+
+Standard Control: Monitoring; measurement; analysis and evaluation - General
+	Action: determine methods for monitoring as applicable ensure
+		Organization: organization
+	Action: with determined requirements
+		Organization: accordance
+	Action: evaluate effectiveness of quality management system
+		Organization: organization
+
+Standard Control: Customer satisfaction
+	Action: monitor customer perceptions
+		Organization: requirements
+	Action: obtain information relating to customer views
+		Organization: organization
+
+Standard Control: Analysis and evaluation
+	Action: demonstrate conformity of products to requirements
+		Organization: information
+	Action: assess customer satisfaction
+		Organization: data
+	Action: been successfully implemented
+		Organization: planning
+	Action: assess performance of processes
+		Organization: information
+	Action: assess performance of external providers
+		Organization: information
+	Action: determine need for improvements within quality management system
+		Organization: information
+	Action: provide inputs to management review
+		Organization: results
+
+Standard Control: Internal audit
+	Action: conduct audits at planned intervals
+		Organization: organization
+	Action: conduct audits at effectively implemented
+		Organization: organization
+
+Standard Control: Internal audit
+	Action: are reported to relevant management
+		Organization: results
+
+Standard Control: Management review
+	Action: review organizations at planned intervals ensure
+		Organization: management
+	Action: adequacy of resources required
+		Organization: management review
+
+Standard Control: Management review
+	Action: include decisions related to continual improvement opportunities
+		Organization: outputs
+	Action: include decisions related to need for changes to quality management system including resource needs
+		Organization: outputs
+	Action: retain information as evidence of results of management reviews
+		Organization: organization
+
+Standard Control: Improvement - General
+	Action: predicted requirements
+		Organization: This
+
+Standard Control: Nonconformity and corrective action
+	Action: occurs including those arising from complaints
+		Organization: nonconformity
+	Action: occurs including effectiveness of corrective action taken
+		Organization: nonconformity
+	Action: occurs including changes to quality management system
+		Organization: nonconformity
+
+Standard Control: Nonconformity and corrective action
+	Action: retain information as documented information
+		Organization: organization
+	Action: retain information as evidence of results of corrective action
+		Organization: organization
+
+Standard Control: Continual improvement
+	Action: continually improve effectiveness of quality management system
+		Organization: organization
+	Action: consider outputs of analysis
+		Organization: organization
+	Action: utilise methodologies for investigation of causes of underperformance
+		Organization: organization
